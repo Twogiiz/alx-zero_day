@@ -1,1 +1,2 @@
-Learnig git from scratch
+Learning git from scratch
+Update!
